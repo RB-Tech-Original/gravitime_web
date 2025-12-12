@@ -15,7 +15,7 @@ const steps = [
   {
     icon: ShieldCheck,
     title: 'Secure',
-    description: 'Set up a 4-digit PIN and enable FaceID or Fingerprint authentication for quick and secure access.',
+    description: 'Set up a 5-digit PIN and enable FaceID or Fingerprint authentication for quick and secure access.',
   },
   {
     icon: Calendar,
